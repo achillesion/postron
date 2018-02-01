@@ -1,0 +1,97 @@
+.item-no{
+	text-align: center;
+	width: 20px;
+
+}
+.description{
+text-align: justify;
+	width: 700px;
+}
+.cost{
+text-align: center;
+	width: 150px;
+}
+.qty{
+text-align: center;
+	width: 100px;
+}
+.price{
+text-align: center;
+	width: 110px;
+}
+
+.page{
+	padding: 20px;
+	margin: 20px;
+}
+#total{
+text-align: center;
+font-size: 20px;
+}
+
+table { border-collapse: collapse; }
+table td, table th { border: 1px solid red; padding: 5px; }
+
+#header { height: 35px; width: 100%; margin: 20px 0; background: #222; text-align: center; color: white; font: bold 15px Helvetica, Sans-Serif;letter-spacing: 20px; padding: 8px 0px; }
+#items td.total-value textarea:hover, #items td.total-value textarea:focus, .delete:hover { background-color:#EEFF88; border: none; }
+
+#address { width: 250px; height: 150px; float: left; }
+#customer { overflow: hidden; }
+#items td.blank { border: 0; height: 30px }
+#lefttext { text-align: left; float: left; overflow: hidden; width:60px; }
+#leftright { text-align: right; float: right; overflow: hidden; width:60px; }
+#logo{align:center; overflow:hidden; width:110px;}
+
+
+#metamain { margin-top: 1px; width: 100%; float: right; margin-bottom:5px;}
+#metamain td.left { text-align: left; width:40%;  }
+#metamain td.right { text-align: right; width:40%; }
+#metamain td.middle {  width:20%;   }
+
+#meta td textarea { width: 100%; height: 20px; text-align: right; }
+
+
+#meta { margin-top: 1px; width: 400px; float: right; margin-bottom:5px;}
+#meta td { text-align: left;  }
+#meta td.meta-head { text-align: left; background: #eee; }
+#meta td textarea { width: 100%; height: 20px; text-align: right; }
+
+#name{
+	height: 67px;
+	margin-top: 1px;
+	width: 300px;
+	float: left;
+	margin-bottom:5px;
+	text-align: left; 
+	background: #eee;
+
+}
+.info{
+	width: 100%;
+}
+#items { clear: both; border: 1px solid red; }
+
+#terms { text-align: center; margin: 20px 0 0 0; }
+#terms h5 { text-transform: uppercase; font: 13px Helvetica, Sans-Serif; letter-spacing: 10px; border-bottom: 1px solid red; padding: 0 0 8px 0; margin: 0 0 8px 0; }
+
+#heads{
+	height: 40px;
+}
+#fields{
+	height: 80px
+
+}
+.header {
+	width: 100%
+    height:30%;
+    background:#F0F0F0;
+    width:960px;
+    margin-top: :0px auto;
+}
+.footer {
+	width: 100%
+   height:20%;
+  background-color: #efefef;
+  width:960px;
+    margin-bottom: :0px auto;
+}
